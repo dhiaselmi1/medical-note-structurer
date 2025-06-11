@@ -95,5 +95,8 @@ patient_id,doctor_notes
 003,"Chronic headaches and sensitivity to light. Suspected migraine. Prescribed Sumatriptan. Review in 2 weeks if symptoms persist."
 004,"Fever and body aches. Diagnosed with influenza. Advised plenty of fluids and rest. Contact clinic if condition worsens in 3 days."
  ```
+
+### Screenshots
 ![image](https://github.com/user-attachments/assets/f87a95fb-7e4d-4376-aed6-d9baf66d9265)
+![image](https://github.com/user-attachments/assets/5b212d2a-af70-4d8e-8b1f-b582e02c378b)
 
