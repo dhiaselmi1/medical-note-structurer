@@ -6,8 +6,8 @@ This project provides an AI-powered assistant designed for healthcare profession
 
 ## Features
 
-* [cite_start]**Intelligent Data Extraction:** Utilizes a Llama2 Large Language Model via Ollama to accurately extract structured fields such as Symptoms, Diagnosis, Medications, and Follow-up Instructions from raw clinical notes. 
-* [cite_start]**Batch Processing:** Supports uploading CSV files containing multiple clinical notes for efficient batch extraction. 
+* **Intelligent Data Extraction:** Utilizes a Llama2 Large Language Model via Ollama to accurately extract structured fields such as Symptoms, Diagnosis, Medications, and Follow-up Instructions from raw clinical notes. 
+* **Batch Processing:** Supports uploading CSV files containing multiple clinical notes for efficient batch extraction. 
 * **User-Friendly Interface (Streamlit):**
     * Clean and intuitive design with custom CSS for an enhanced aesthetic.
     * Real-time progress updates during batch processing.
@@ -16,16 +16,16 @@ This project provides an AI-powered assistant designed for healthcare profession
     * Top 5 Diagnoses.
     * Top 10 Reported Symptoms.
     * Top 10 Prescribed Medications.
-* [cite_start]**Structured Output & Export:** Displays extracted data in a clear, tabular format and allows easy export to a CSV file. 
-* [cite_start]**Robust Backend (FastAPI):** A high-performance API handles the LLM integration and data processing. 
+* **Structured Output & Export:** Displays extracted data in a clear, tabular format and allows easy export to a CSV file. 
+* **Robust Backend (FastAPI):** A high-performance API handles the LLM integration and data processing. 
 
 ## Tech Stack
 
-* [cite_start]**Backend:** FastAPI 
-* [cite_start]**LLM Hosting:** Ollama + Llama2 
-* [cite_start]**Frontend:** Streamlit (with Pandas, Matplotlib, Seaborn for data handling and visualization) 
-* [cite_start]**Output:** CSV export 
-* [cite_start]**Versioning:** Git + GitHub 
+* **Backend:** FastAPI 
+* **LLM Hosting:** Ollama + Llama2 
+* **Frontend:** Streamlit (with Pandas, Matplotlib, Seaborn for data handling and visualization) 
+* **Output:** CSV export 
+* **Versioning:** Git + GitHub 
 
 ## How to Use
 
@@ -94,4 +94,5 @@ patient_id,doctor_notes
 002,"Severe cough and shortness of breath. Possible pneumonia. Started azithromycin. Advised rest and hydration. Follow-up in 7 days."
 003,"Chronic headaches and sensitivity to light. Suspected migraine. Prescribed Sumatriptan. Review in 2 weeks if symptoms persist."
 004,"Fever and body aches. Diagnosed with influenza. Advised plenty of fluids and rest. Contact clinic if condition worsens in 3 days."
+![image](https://github.com/user-attachments/assets/f87a95fb-7e4d-4376-aed6-d9baf66d9265)
 
