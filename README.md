@@ -94,5 +94,6 @@ patient_id,doctor_notes
 002,"Severe cough and shortness of breath. Possible pneumonia. Started azithromycin. Advised rest and hydration. Follow-up in 7 days."
 003,"Chronic headaches and sensitivity to light. Suspected migraine. Prescribed Sumatriptan. Review in 2 weeks if symptoms persist."
 004,"Fever and body aches. Diagnosed with influenza. Advised plenty of fluids and rest. Contact clinic if condition worsens in 3 days."
+ ```
 ![image](https://github.com/user-attachments/assets/f87a95fb-7e4d-4376-aed6-d9baf66d9265)
 
