@@ -2,8 +2,16 @@
 
 ## Overview
 
-This project provides an AI-powered assistant designed for healthcare professionals to convert unstructured clinical notes into structured, easily manageable data. Physicians often record patient information in free-form text, which can be messy, inconsistent, and difficult to analyze. [cite_start]This tool aims to streamline that process by automatically extracting key medical information, making it suitable for Electronic Medical Record (EMR) systems or further analysis. 
+🏥 **Real-World Use Case:**  
+HealthCare+ Clinic has physicians who take unstructured notes during patient visits. These notes are often messy, vary in length, and lack consistency. The clinic needs an AI assistant that can:
 
+- Parse unstructured clinical notes  
+- Extract structured fields like **symptoms**, **diagnosis**, **medications**, and **follow-up recommendations**  
+- Output a clean, structured summary suitable for **EMR systems** or printing  
+
+---
+
+This project delivers an **AI-powered assistant** designed to solve this exact problem. It converts free-form medical notes into structured, machine-readable data, helping healthcare providers organize clinical information quickly and accurately — ideal for **Electronic Medical Record (EMR)** integration or further analysis.
 ## Features
 
 * **Intelligent Data Extraction:** Utilizes a Llama2 Large Language Model via Ollama to accurately extract structured fields such as Symptoms, Diagnosis, Medications, and Follow-up Instructions from raw clinical notes. 
