@@ -62,8 +62,7 @@ Before you begin, ensure you have the following installed:
     ollama pull llama2
     ```
 
-### Running the Application
-
+ ## ▶️ Running the Application
 1.  **Start the Backend API:**
     Navigate to the `backend` directory:
     ```bash
